@@ -19,5 +19,5 @@ When I am not developing new tools, I spend my time analyzing all kinds of high-
 If you want to contact me, you can do so via
 
 - 📬 email (have a look at my UiO [profile](https://www.mn.uio.no/ibv/english/people/aca/roberros/))
-- Linkedin: [www.linkedin.com/in/roberto-rossini-bioinfo](https://www.linkedin.com/in/roberto-rossini-bioinfo)
+- Linkedin: [www.linkedin.com/in/robomics](https://www.linkedin.com/in/robomics)
 - Twitter/X: [twitter.com/robomics](https://twitter.com/robomics?lang=en)
