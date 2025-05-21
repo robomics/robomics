@@ -34,7 +34,7 @@ My work focuses on designing efficient and user-friendly bioinformatics software
 
 ## 🛠️ Tech Stack
 
-C++, Python, POSIX shell, R, Nextflow, Git, Docker, GitHub Actions, SLURM
+C++, Python, POSIX shell, R, Nextflow, Git, Docker, GitHub Actions, SLURM...
 
 ## 📫 Contact Me
 
