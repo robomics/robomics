@@ -34,7 +34,7 @@ When it comes to bioinformatics tools, I deeply care about:
 - Zero-copy in-memory data sharing between C++ and Python/R using Arrow and Eigen
 - Published in _OUP Bioinformatics_ (2024): [doi.org/10.1093/bioinformatics/btae408](https://doi.org/10.1093/bioinformatics/btae408)
 - **Languages**: `C++17` (core), `Python`, `R`
-- **Tech stack**: `Arrow`, `Conan`, `CMake`, `GitHub Actions`, `nanobind`, `OpenTelemetry`, `Rcpp`, `Docker`, `Sphinx`
+- **Tech stack**: `Arrow`, `Conan`, `CMake`, `Docker`, `GitHub Actions`, `nanobind`, `OpenTelemetry`, `Rcpp`, `Sphinx`
 - **Key Algorithms & Techniques**: Test-driven development, fuzzy testing, streaming algorithms, visitor and iterator patterns, multi-threading
 - **Role**: Lead developer
 
@@ -47,7 +47,7 @@ When it comes to bioinformatics tools, I deeply care about:
 - Developed to simulate genome-wide loop extrusion in vertebrates, providing insights into chromatin dynamics relevant to gene regulation and disease mechanisms
 - **Orders of magnitude faster** than traditional MD-based models: simulate loop extrusion on the human genome using consumer hardware in a few minutes
 - Published in _Genome Biology_ (2022): [doi.org/10.1186/s13059-022-02815-7](https://doi.org/10.1186/s13059-022-02815-7)
-- **Tech stack**: `C++17`, `Conan`, `CMake`, `GitHub Actions`, `Docker`
+- **Tech stack**: `C++17`, `Conan`, `CMake`, `Docker`, `GitHub Actions`
 - **Key Algorithms & Techniques**: unit-testing, consumer-producer architecture, multi-threading, concurrent data structures
 - **Role**: Lead developer
 
@@ -91,7 +91,7 @@ The projects presented in this section aim to simplify and automate common bioin
 
 All the above workflows are implemented using `Nextflow` (mainly using DSL2).\
 Each repository is structured to leverage `GitHub Actions` and the `GitHub Container Registry (GHCR.io)` to build and host custom Docker images to enable reproducible data analysis without relying on third-party images.\
-The code used in, and called by `Nextflow` processes is written using `Python`, `R`, and `Bash`.
+The code used in, and called by `Nextflow` processes is written using `Bash`, `Python`, and `R`.
 
 </details>
 
