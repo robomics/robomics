@@ -21,9 +21,9 @@ When it comes to bioinformatics tools, I deeply care about:
 - **Correctness** — via rigorous testing and well-thought-out code architecture
 - **Usability** — achieved with clear CLI design, intuitive APIs, and comprehensive documentation
 
----
-
 ## 🔬 Selected Projects
+
+---
 
 ### [hictk](https://github.com/paulsengroup/hictk) • [hictkpy](https://github.com/paulsengroup/hictkpy) • [hictkR](https://github.com/paulsengroup/hictkR)
 
@@ -39,6 +39,9 @@ When it comes to bioinformatics tools, I deeply care about:
 - **Role**: Lead developer
 
 ---
+
+<details>
+<summary><strong>Click to see more</strong></summary>
 
 ### [MoDLE](https://github.com/paulsengroup/modle)
 
@@ -60,7 +63,7 @@ When it comes to bioinformatics tools, I deeply care about:
 - Full pipeline and analysis scripts for integrative Hi-C, ChIP-Seq, and RNA-Seq data
 - Preprint available on bioRxiv (2023): [doi.org/10.1101/2023.11.26.568711](https://doi.org/10.1101/2023.11.26.568711)
 - **Tools**: `Bash`, `Dash`, `Docker`, `Jupyter`, `Nextflow`, `Python`, `R`
-- **Role**: Lead developer. Responsible for all data processing and most of the data analysis
+- **Role**: Principal data scientist
 
 ---
 
@@ -114,6 +117,8 @@ In addition to major projects, I contribute to the broader bioinformatics softwa
   - [libBigWig](https://github.com/dpryan79/libBigWig/issues?q=is%3Apr%20author%3Arobomics)
 
 ---
+
+</details>
 
 ## 📫 Contact & Links
 
