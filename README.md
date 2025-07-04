@@ -73,7 +73,7 @@ When it comes to bioinformatics tools, I deeply care about:
 
 - Identifies structural features linked to active transcription and regulatory regions
 - Format-agnostic and easy to use. Augments stripes with several descriptive statistics
-- Preprint available on bioRxiv (2024): [doi.org/10.1101/2024.12.20.629789](https://doi.org/10.1101/2024.12.20.629789)
+- Published in _OUP Bioinformatics_ (2025): [doi.org/10.1093/bioinformatics/btaf351](https://doi.org/10.1093/bioinformatics/btaf351)
 - **Language**: `Python`
 - **Key Algorithms & Techniques**: unit-testing, multiprocessing, shared memory, asynchronous programming, structured logging
 - **Role**: Primary code contributor. Provided inputs regarding the algorithm design
@@ -89,7 +89,7 @@ The projects presented in this section aim to simplify and automate common bioin
 
 - [compress-nfcore-hic-output](https://github.com/robomics/compress-nfcore-hic-output) – Automates post-processing of nf-core Hi-C output files
 - [chrom3d-nf](https://github.com/robomics/chrom3d-nf) – Reproducible Chrom3D modeling pipeline using Nextflow
-- [call_tad_cliques](https://github.com/robomics/call_tad_cliques) – Graph-theoretic approach to detect nested TAD structures
+- [call_tad_cliques](https://github.com/robomics/call_tad_cliques) – Identify TAD cliques from Hi-C data using an approach rooted in graph theory
 - [generate_higlass_gene_track](https://github.com/robomics/generate_higlass_gene_track) – Prepares gene annotations for HiGlass visualization
 
 All the above workflows are implemented using `Nextflow` (mainly using DSL2).\
